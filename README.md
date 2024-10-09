@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋, I'm Azmir Shishir
+#### Web Developer
 
 
-**LetsGoShishir/LetsGoShishir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student with a strong foundation in React, Object-Oriented Programming, and Node.js. Currently enhancing skills in JavaScript and passionate about building efficient and scalable web applications.
 
-Here are some ideas to get you started:
+Skills: REACT /NODE JS/ JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on youtube 
+- 🌱 I’m currently learning javaScript 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: shishirshishir243@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LetsGoShishir)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetsGoShishir)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/LetsGoShishir)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=LetsGoShishir)  
 
